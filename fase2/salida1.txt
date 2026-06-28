@@ -1,0 +1,112 @@
+=== Consulta 1: todos los eventos del stream (outputMode: append) ===
+
+Clave: awalther-2           | Valor: gift card
+Clave: eabara-2             | Valor: t-shirts
+Clave: eabara-2             | Valor: t-shirts
+Clave: eabara-2             | Valor: batteries
+Clave: jbernard-2           | Valor: batteries
+Clave: jbernard-2           | Valor: gift card
+Clave: jsmith-2             | Valor: t-shirts
+Clave: jsmith-2             | Valor: alarm clock
+Clave: jsmith-2             | Valor: batteries
+Clave: order_1              | Valor: {"product": "monitor", "quantity": 9, "price": 904.78, "total": 8143.02}
+Clave: order_1              | Valor: {"product": "smartphone", "quantity": 7, "price": 413.47, "total": 2894.29}
+Clave: order_10             | Valor: {"product": "disco_duro", "quantity": 10, "price": 347.69, "total": 3476.9}
+Clave: order_10             | Valor: {"product": "altavoces", "quantity": 5, "price": 566.61, "total": 2833.05}
+Clave: order_11             | Valor: {"product": "usb_hub", "quantity": 5, "price": 731.61, "total": 3658.05}
+Clave: order_11             | Valor: {"product": "disco_duro", "quantity": 2, "price": 320.75, "total": 641.5}
+Clave: order_12             | Valor: {"product": "cargador", "quantity": 2, "price": 808.33, "total": 1616.66}
+Clave: order_12             | Valor: {"product": "smartphone", "quantity": 3, "price": 941.34, "total": 2824.02}
+Clave: order_13             | Valor: {"product": "raton", "quantity": 7, "price": 654.44, "total": 4581.08}
+Clave: order_13             | Valor: {"product": "disco_duro", "quantity": 8, "price": 398.92, "total": 3191.36}
+Clave: order_14             | Valor: {"product": "cargador", "quantity": 9, "price": 586.4, "total": 5277.6}
+Clave: order_14             | Valor: {"product": "cargador", "quantity": 5, "price": 165.98, "total": 829.9}
+Clave: order_15             | Valor: {"product": "cargador", "quantity": 7, "price": 773.96, "total": 5417.72}
+Clave: order_15             | Valor: {"product": "raton", "quantity": 2, "price": 388.98, "total": 777.96}
+Clave: order_16             | Valor: {"product": "auriculares", "quantity": 6, "price": 504.21, "total": 3025.26}
+Clave: order_16             | Valor: {"product": "laptop", "quantity": 3, "price": 139.75, "total": 419.25}
+Clave: order_17             | Valor: {"product": "memoria_ram", "quantity": 9, "price": 184.9, "total": 1664.1}
+Clave: order_17             | Valor: {"product": "cargador", "quantity": 3, "price": 816.57, "total": 2449.71}
+Clave: order_18             | Valor: {"product": "smartphone", "quantity": 8, "price": 771.42, "total": 6171.36}
+Clave: order_18             | Valor: {"product": "auriculares", "quantity": 10, "price": 971.49, "total": 9714.9}
+Clave: order_19             | Valor: {"product": "impresora", "quantity": 10, "price": 947.81, "total": 9478.1}
+Clave: order_19             | Valor: {"product": "monitor", "quantity": 3, "price": 323.61, "total": 970.83}
+Clave: order_2              | Valor: {"product": "laptop", "quantity": 2, "price": 806.45, "total": 1612.9}
+Clave: order_2              | Valor: {"product": "cargador", "quantity": 1, "price": 338.37, "total": 338.37}
+Clave: order_20             | Valor: {"product": "altavoces", "quantity": 1, "price": 81.51, "total": 81.51}
+Clave: order_20             | Valor: {"product": "laptop", "quantity": 8, "price": 826.87, "total": 6614.96}
+Clave: order_21             | Valor: {"product": "laptop", "quantity": 9, "price": 387.81, "total": 3490.29}
+Clave: order_21             | Valor: {"product": "auriculares", "quantity": 3, "price": 972.53, "total": 2917.59}
+Clave: order_22             | Valor: {"product": "teclado", "quantity": 3, "price": 122.79, "total": 368.37}
+Clave: order_22             | Valor: {"product": "tablet", "quantity": 6, "price": 243.49, "total": 1460.94}
+Clave: order_23             | Valor: {"product": "smartphone", "quantity": 10, "price": 61.35, "total": 613.5}
+Clave: order_23             | Valor: {"product": "raton", "quantity": 4, "price": 538.69, "total": 2154.76}
+Clave: order_24             | Valor: {"product": "disco_duro", "quantity": 6, "price": 404.4, "total": 2426.4}
+Clave: order_24             | Valor: {"product": "soporte_monitor", "quantity": 7, "price": 903.89, "total": 6327.23}
+Clave: order_25             | Valor: {"product": "escaner", "quantity": 9, "price": 918.12, "total": 8263.08}
+Clave: order_25             | Valor: {"product": "monitor", "quantity": 4, "price": 666.69, "total": 2666.76}
+Clave: order_26             | Valor: {"product": "impresora", "quantity": 9, "price": 359.01, "total": 3231.09}
+Clave: order_26             | Valor: {"product": "impresora", "quantity": 9, "price": 750.05, "total": 6750.45}
+Clave: order_27             | Valor: {"product": "raton", "quantity": 8, "price": 431.61, "total": 3452.88}
+Clave: order_27             | Valor: {"product": "alfombrilla", "quantity": 6, "price": 26.77, "total": 160.62}
+Clave: order_28             | Valor: {"product": "altavoces", "quantity": 9, "price": 314.74, "total": 2832.66}
+Clave: order_28             | Valor: {"product": "tablet", "quantity": 5, "price": 400.81, "total": 2004.05}
+Clave: order_29             | Valor: {"product": "cable_hdmi", "quantity": 8, "price": 897.04, "total": 7176.32}
+Clave: order_29             | Valor: {"product": "escaner", "quantity": 5, "price": 24.03, "total": 120.15}
+Clave: order_3              | Valor: {"product": "cable_hdmi", "quantity": 4, "price": 82.12, "total": 328.48}
+Clave: order_3              | Valor: {"product": "tarjeta_grafica", "quantity": 3, "price": 703.81, "total": 2111.43}
+Clave: order_30             | Valor: {"product": "teclado", "quantity": 10, "price": 929.36, "total": 9293.6}
+Clave: order_30             | Valor: {"product": "teclado", "quantity": 10, "price": 665.69, "total": 6656.9}
+Clave: order_31             | Valor: {"product": "webcam", "quantity": 4, "price": 913.45, "total": 3653.8}
+Clave: order_31             | Valor: {"product": "raton", "quantity": 9, "price": 896.11, "total": 8064.99}
+Clave: order_32             | Valor: {"product": "soporte_monitor", "quantity": 9, "price": 307.95, "total": 2771.55}
+Clave: order_32             | Valor: {"product": "laptop", "quantity": 9, "price": 726.98, "total": 6542.82}
+Clave: order_33             | Valor: {"product": "laptop", "quantity": 7, "price": 318.55, "total": 2229.85}
+Clave: order_33             | Valor: {"product": "laptop", "quantity": 2, "price": 700.41, "total": 1400.82}
+Clave: order_34             | Valor: {"product": "usb_hub", "quantity": 9, "price": 515.1, "total": 4635.9}
+Clave: order_34             | Valor: {"product": "escaner", "quantity": 9, "price": 833.43, "total": 7500.87}
+Clave: order_35             | Valor: {"product": "soporte_monitor", "quantity": 2, "price": 508.1, "total": 1016.2}
+Clave: order_35             | Valor: {"product": "alfombrilla", "quantity": 6, "price": 107.4, "total": 644.4}
+Clave: order_36             | Valor: {"product": "soporte_monitor", "quantity": 6, "price": 413.92, "total": 2483.52}
+Clave: order_36             | Valor: {"product": "alfombrilla", "quantity": 10, "price": 631.46, "total": 6314.6}
+Clave: order_37             | Valor: {"product": "teclado", "quantity": 8, "price": 596.59, "total": 4772.72}
+Clave: order_37             | Valor: {"product": "webcam", "quantity": 2, "price": 536.22, "total": 1072.44}
+Clave: order_38             | Valor: {"product": "alfombrilla", "quantity": 7, "price": 304.35, "total": 2130.45}
+Clave: order_38             | Valor: {"product": "escaner", "quantity": 2, "price": 269.92, "total": 539.84}
+Clave: order_39             | Valor: {"product": "disco_duro", "quantity": 4, "price": 814.26, "total": 3257.04}
+Clave: order_39             | Valor: {"product": "usb_hub", "quantity": 9, "price": 219.77, "total": 1977.93}
+Clave: order_4              | Valor: {"product": "tablet", "quantity": 8, "price": 487.07, "total": 3896.56}
+Clave: order_4              | Valor: {"product": "auriculares", "quantity": 5, "price": 891.67, "total": 4458.35}
+Clave: order_40             | Valor: {"product": "auriculares", "quantity": 3, "price": 973.4, "total": 2920.2}
+Clave: order_40             | Valor: {"product": "laptop", "quantity": 10, "price": 448.45, "total": 4484.5}
+Clave: order_41             | Valor: {"product": "tarjeta_grafica", "quantity": 2, "price": 196.08, "total": 392.16}
+Clave: order_41             | Valor: {"product": "raton", "quantity": 6, "price": 264.56, "total": 1587.36}
+Clave: order_42             | Valor: {"product": "cable_hdmi", "quantity": 7, "price": 125.16, "total": 876.12}
+Clave: order_42             | Valor: {"product": "smartphone", "quantity": 4, "price": 412.21, "total": 1648.84}
+Clave: order_43             | Valor: {"product": "teclado", "quantity": 9, "price": 143.71, "total": 1293.39}
+Clave: order_43             | Valor: {"product": "impresora", "quantity": 8, "price": 423.35, "total": 3386.8}
+Clave: order_44             | Valor: {"product": "smartphone", "quantity": 7, "price": 450.07, "total": 3150.49}
+Clave: order_44             | Valor: {"product": "usb_hub", "quantity": 3, "price": 749.18, "total": 2247.54}
+Clave: order_45             | Valor: {"product": "cable_hdmi", "quantity": 5, "price": 460.09, "total": 2300.45}
+Clave: order_45             | Valor: {"product": "impresora", "quantity": 2, "price": 328.27, "total": 656.54}
+Clave: order_46             | Valor: {"product": "tablet", "quantity": 9, "price": 110.45, "total": 994.05}
+Clave: order_46             | Valor: {"product": "tarjeta_grafica", "quantity": 9, "price": 133.72, "total": 1203.48}
+Clave: order_47             | Valor: {"product": "alfombrilla", "quantity": 6, "price": 396.8, "total": 2380.8}
+Clave: order_47             | Valor: {"product": "laptop", "quantity": 4, "price": 352.85, "total": 1411.4}
+Clave: order_48             | Valor: {"product": "laptop", "quantity": 1, "price": 141.82, "total": 141.82}
+Clave: order_48             | Valor: {"product": "raton", "quantity": 5, "price": 204.46, "total": 1022.3}
+Clave: order_49             | Valor: {"product": "cable_hdmi", "quantity": 1, "price": 933.7, "total": 933.7}
+Clave: order_49             | Valor: {"product": "tarjeta_grafica", "quantity": 7, "price": 418.02, "total": 2926.14}
+Clave: order_5              | Valor: {"product": "teclado", "quantity": 9, "price": 956.32, "total": 8606.88}
+Clave: order_5              | Valor: {"product": "cable_hdmi", "quantity": 10, "price": 666.12, "total": 6661.2}
+Clave: order_50             | Valor: {"product": "smartphone", "quantity": 1, "price": 824.15, "total": 824.15}
+Clave: order_50             | Valor: {"product": "smartphone", "quantity": 10, "price": 913.63, "total": 9136.3}
+Clave: order_6              | Valor: {"product": "impresora", "quantity": 2, "price": 63.07, "total": 126.14}
+Clave: order_6              | Valor: {"product": "laptop", "quantity": 8, "price": 863.43, "total": 6907.44}
+Clave: order_7              | Valor: {"product": "monitor", "quantity": 6, "price": 527.67, "total": 3166.02}
+Clave: order_7              | Valor: {"product": "altavoces", "quantity": 3, "price": 113.51, "total": 340.53}
+Clave: order_8              | Valor: {"product": "tablet", "quantity": 4, "price": 876.6, "total": 3506.4}
+Clave: order_8              | Valor: {"product": "usb_hub", "quantity": 7, "price": 843.06, "total": 5901.42}
+Clave: order_9              | Valor: {"product": "monitor", "quantity": 10, "price": 922.89, "total": 9228.9}
+Clave: order_9              | Valor: {"product": "tarjeta_grafica", "quantity": 3, "price": 566.36, "total": 1699.08}
+Clave: sgarcia-2            | Valor: t-shirts

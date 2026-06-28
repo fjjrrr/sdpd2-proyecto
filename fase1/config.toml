@@ -1,0 +1,15 @@
+[paths]
+
+raw_data = "/opt/airflow/data/raw/netflix_titles.csv"
+processed_data = "/opt/airflow/data/processed/netflix_cleaned.parquet"
+report_path = "/opt/airflow/data/reports"
+
+[kafka]
+
+bootstrap_servers = "kafka:9092"
+topic = "netflix_processed_data"
+
+[pipeline]
+
+drop_duplicates = true
+remove_null_titles = true
